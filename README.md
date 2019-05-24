@@ -6,7 +6,7 @@ All things field
 
 # Henry Owen
 HOB
-# Townsend grace
+# Townsend Grace
 TGB
 # Brian William
 BWB
