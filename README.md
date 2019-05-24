@@ -2,14 +2,11 @@
 All things butter 
 # Field
 All things field
-#Sibley
-All things sibley
-#McCutcheon
-mccutcheon
+
 
 #Henry Owen
-henry owen 
+HOB
 #townsend grace
-townsend grace
+TGB
 #Brian William
 BWB
